@@ -19,8 +19,8 @@ This project explores 38,000+ loan applications to uncover key trends, risk fact
 - Top 3 loan purposes with highest return rate: medical, debt consolidation, small business
 
 ## 🖼️ Dashboard Preview
-[<img src="screenshots/Screenshot1.png" width="400"/>](screenshots/Screenshot 2025-06-12 002950.png)
-[<img src="screenshots/Screenshot2.png" width="400"/>](screenshots/Screenshot 2025-06-12 003011.png)
+[<img src="screenshots/Screenshot 2025-06-12 002950.png" width="400"/>](screenshots/Screenshot 2025-06-12 002950.png)
+[<img src="screenshots/Screenshot 2025-06-12 003011.png" width="400"/>](screenshots/Screenshot 2025-06-12 003011.png)
 ## 🗂️ Project Structure
 - **data/**
   - loan_data.xlsx
