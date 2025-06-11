@@ -20,7 +20,7 @@ This project explores 38,000+ loan applications to uncover key trends, risk fact
 
 ## 🖼️ Dashboard Preview
 ![Screenshot 1](screenshots/Screenshot 2025-06-12 002950.png)  
-![Screenshot 2](screenshots/Screenshot2.png)
+![Screenshot 2](screenshots/Screenshot 2025-06-12 003011.png)
 
 ## 🗂️ Project Structure
 - **data/**
