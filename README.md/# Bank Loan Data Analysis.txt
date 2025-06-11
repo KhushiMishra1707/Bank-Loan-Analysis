@@ -20,7 +20,7 @@ This project explores 38,600+ loan applications to uncover key trends, risk fact
 
 ## 📷 Dashboard Preview
 ![Dashboard Screenshot1]("screenshots/Screenshot 2025-06-12 002950.png")
-![Dashboard Screenshot2]("C:\Users\Hp\OneDrive\Pictures\Screenshots\Screenshot 2025-06-12 003011.png")
+![Dashboard Screenshot2]("screenshots/Screenshot 2025-06-12 003011.png")
 
 ## 📁 Project Structure
 ```bash
